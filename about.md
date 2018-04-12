@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm professor in Computer Science and researcher in Machine Learning for Robotics at Sorbonne University (formerly UPMC), Paris, France
 
-### More Information
+### Web page 
 
-A place to include any other types of information that you'd like to include about yourself.
+http://people.isir.upmc.fr/sigaud
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Olivier.Sigaud@upmc.fr](mailto:Olivier.Sigaud@upmc.fr)
