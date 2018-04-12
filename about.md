@@ -1,12 +1,9 @@
 ---
 layout: page
-title: About
+title: Web page 
 permalink: /about/
 ---
 
-I'm professor in Computer Science and researcher in Machine Learning for Robotics at Sorbonne University (formerly UPMC), Paris, France
-
-### Web page 
 
 http://people.isir.upmc.fr/sigaud
 
